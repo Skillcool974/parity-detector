@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Nov  5 10:49:17 2024
+# Process ID: 5692
+# Current directory: D:/cours/vivado doc/party 4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18600 D:\cours\vivado doc\party 4\party 4.xpr
+# Log file: D:/cours/vivado doc/party 4/vivado.log
+# Journal file: D:/cours/vivado doc/party 4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/cours/vivado doc/party 4/party 4.xpr}
+update_compile_order -fileset sources_1
